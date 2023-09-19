@@ -1,0 +1,8 @@
+.vscode/
+__*/
+.ipynb_*/
+data/
+Sogou*/
+Embedding/
+.DS_Store
+*.ipynb
